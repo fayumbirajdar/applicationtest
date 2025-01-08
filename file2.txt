@@ -1,1 +1,2 @@
-this is secnd file.
+this is secnd file.cls
+amde change to file 2
